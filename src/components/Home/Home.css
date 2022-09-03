@@ -1,0 +1,9 @@
+.home .logo {
+  display: block;
+  margin: 0 auto;
+  width: 15%;
+  height: 10%;
+}
+.home .button-container{
+  flex-wrap: wrap;
+}
